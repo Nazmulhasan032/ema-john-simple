@@ -155,19 +155,7 @@
         "shipping": 48,
         "quantity": 0
     },
-    {
-        "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
-        "category": "Men's Pants",
-        "name": "PRIMEBLUE SST TRACK PANTS",
-        "seller": "Addidas",
-        "price": 63,
-        "stock": 46,
-        "ratings": 4,
-        "ratingsCount": 50,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/52b5fde5829a4a04820dacf50127b969_9366/Adicolor_Classics_Primeblue_SST_Track_Pants_Blue_H06714_21_model.jpg",
-        "shipping": 20,
-        "quantity": 0
-    },
+   
     {
         "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
         "category": "Men's Pants",
